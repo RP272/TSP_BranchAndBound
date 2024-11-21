@@ -1,0 +1,7 @@
+readOrGenerateData: 0
+whichAlgorithm: 0
+quantityOfCities: 14
+quantityOfMeasurements: 1
+asymmetricOrSymmetric: 1
+progressBarSwitch: 1
+numberOfIterationsForRandom: 100000

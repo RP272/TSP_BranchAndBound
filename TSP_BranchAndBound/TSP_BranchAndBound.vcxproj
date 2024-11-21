@@ -143,6 +143,10 @@
     <ClInclude Include="DataManagement\RandomIntegerGenerator.hpp" />
     <ClInclude Include="NearestNeighbor\NearestNeighbor.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="configuration_file.txt" />
+    <Text Include="input_file.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

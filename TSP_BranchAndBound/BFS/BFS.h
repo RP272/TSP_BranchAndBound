@@ -4,7 +4,7 @@
 
 class BFS {
 public:
-	static void Solve(int numberOfCities, std::vector<std::vector<int>> matrix, int initialBest);
+	static void Solve(int numberOfCities, int** matrix, int initialBest);
 };
 
 
